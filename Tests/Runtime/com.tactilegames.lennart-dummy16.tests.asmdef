@@ -2,7 +2,7 @@
   "overrideReferences": true,
   "noEngineReferences": false,
   "autoReferenced": false,
-  "name": "com.tactilegames.PACKAGE_NAME.editor.tests",
+  "name": "com.tactilegames.lennart-dummy16.tests",
   "allowUnsafeContext": false,
   "defineConstraints": [
     "UNITY_INCLUDE_TESTS"
@@ -14,8 +14,7 @@
   "references": [
     "UnityEngine.TestRunner",
     "UnityEditor.TestRunner",
-    "com.tactilegames.PACKAGE_NAME",
-    "com.tactilegames.PACKAGE_NAME.editor"
+    "com.tactilegames.lennart-dummy16"
   ],
   "excludePlatforms": [],
   "precompiledReferences": [

@@ -1,20 +1,20 @@
 {
-  "displayName": "DISPLAY_NAME",
+  "displayName": "Lennart Dummy16",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tactilegames/PACKAGE_NAME.git"
+    "url": "https://github.com/tactilegames/lennart-dummy16.git"
   },
   "description": "TODO",
-  "name": "com.tactilegames.PACKAGE_NAME",
+  "name": "com.tactilegames.lennart-dummy16",
   "author": {
     "name": "Tactile Games",
     "url": "https://github.com/tactilegames"
   },
-  "homepage": "https://github.com/tactilegames/PACKAGE_NAME",
+  "homepage": "https://github.com/tactilegames/lennart-dummy16",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@tactilegames"
   },
-  "testables": ["com.tactilegames.PACKAGE_NAME.tests","com.tactilegames.PACKAGE_NAME.editor.tests"],
+  "testables": ["com.tactilegames.lennart-dummy16.tests","com.tactilegames.lennart-dummy16.editor.tests"],
   "dependencies": {},
   "unity": "2019.4",
   "version": "1.0.0"

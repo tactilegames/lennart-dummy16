@@ -2,7 +2,7 @@
   "overrideReferences": false,
   "noEngineReferences": false,
   "autoReferenced": true,
-  "name": "com.tactilegames.PACKAGE_NAME.editor",
+  "name": "com.tactilegames.lennart-dummy16.editor",
   "allowUnsafeContext": false,
   "defineConstraints": [],
   "optionalUnityReferences": [],
@@ -10,7 +10,7 @@
     "Editor"
   ],
   "references": [
-    "com.tactilegames.PACKAGE_NAME"
+    "com.tactilegames.lennart-dummy16"
   ],
   "excludePlatforms": [],
   "precompiledReferences": []

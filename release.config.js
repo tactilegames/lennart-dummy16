@@ -31,7 +31,7 @@ module.exports = {
     }],
     ['@tactilegames/semantic-pr-changelog', {
       changelogFile: 'CHANGELOG.md',
-      changelogTitle: "# com.tactilegames.PACKAGE_NAME",
+      changelogTitle: "# com.tactilegames.lennart-dummy16",
       githubOwner: process.env.CIRCLE_PROJECT_USERNAME,
       githubRepo: process.env.CIRCLE_PROJECT_REPONAME,
       types: [
